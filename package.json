@@ -1,0 +1,11 @@
+{
+    "name": "table-unflipper",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "node -r dotenv/config bot.js"
+    },
+    "dependencies": {
+        "discord.js": "^12.3.1",
+        "dotenv": "^8.2.0"
+    }
+}
